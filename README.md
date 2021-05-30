@@ -3,7 +3,7 @@ Personal repo for home setup and restoration on new machines. All instructions a
 
 ## Prerequisite installation
 ### zsh
-`sudo apt-get update`
+`sudo apt-get update`\
 `sudo apt-get install zsh`
 
 ### oh-my-zsh
@@ -22,8 +22,8 @@ _further information: [zsh-autosuggestions](https://github.com/zsh-users/zsh-aut
 _further information: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)_
 
 ### the-fuck
-`sudo apt update`
-`sudo apt install python3-dev python3-pip python3-setuptools`
+`sudo apt update`\
+`sudo apt install python3-dev python3-pip python3-setuptools`\
 `sudo pip3 install thefuck`
 
 _further information: [thefuck](https://github.com/nvbn/thefuck)_
@@ -39,7 +39,7 @@ _further information: [k](https://github.com/supercrabtree/k)_
 _further information: [zsh-z](https://github.com/agkozak/zsh-z)_
 
 ### spaceship-prompt
-`git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1`
+`git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1`\
 `ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"`
 
 _further information: [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)_
