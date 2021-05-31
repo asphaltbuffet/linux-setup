@@ -44,6 +44,11 @@ _further information: [zsh-z](https://github.com/agkozak/zsh-z)_
 
 _further information: [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)_
 
+## Optional
+
+### firecode (font)
+_download from: [FireCode](https://github.com/tonsky/FiraCode)_
+
 ## Configuration
 Manually copy the `.zshrc` file to `~/.zshrc`.
 
