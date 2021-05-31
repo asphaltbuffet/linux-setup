@@ -1,5 +1,5 @@
 # linux-setup
-Personal repo for home setup and restoration on new machines. All instructions assume Ubuntu/LinxMint system.
+Personal repo for home setup and restoration on new machines. All instructions assume Ubuntu/LinuxMint system.
 
 ## Prerequisite installation
 ### zsh
