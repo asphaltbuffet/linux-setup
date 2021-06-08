@@ -11,6 +11,7 @@ export ZSH="/home/blechlit/.oh-my-zsh"
 ZSH_THEME="spaceship"
 
 SPACESHIP_TIME_SHOW="true"
+SPACESHIP_TIME_FORMAT="%D{%F %X %Z}"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
