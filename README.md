@@ -28,11 +28,6 @@ _further information: [zsh-syntax-highlighting](https://github.com/zsh-users/zsh
 
 _further information: [thefuck](https://github.com/nvbn/thefuck)_
 
-### k
-`git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k`
-
-_further information: [k](https://github.com/supercrabtree/k)_
-
 ### zsh-z
 `git clone https://github.com/agkozak/zsh-z $ZSH_CUSTOM/plugins/zsh-z`
 
