@@ -32,10 +32,21 @@ _further information: [zsh-z]_
 
 _further information: [spaceship-prompt]_
 
+### fzf
+`git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf`\
+`~/.fzf/install --all`
+
+_further information: [fzf]_
+
 ### autoupdate  (plugins)
 `git clone https://github.com/TamCore/autoupdate-oh-my-zsh-plugins $ZSH_CUSTOM/plugins/autoupdate`
 
 _further information: [autoupdate-oh-my-zsh-plugins]_
+
+## Updating
+
+`upgrade_oh_my_zsh_custom`\
+`cd ~/.fzf && git pull && ./install --all`
 
 ## Optional
 
@@ -43,6 +54,7 @@ _further information: [autoupdate-oh-my-zsh-plugins]_
 Manually copy the `.zshrc` file to `~/.zshrc`.
 
 Will likely make a script to link this at a later point.
+
 ### changes
 - change date format (in history)
 - display time in prompt
@@ -55,3 +67,4 @@ Will likely make a script to link this at a later point.
 [zsh-z]: https://github.com/agkozak/zsh-z
 [spaceship-prompt]: https://github.com/denysdovhan/spaceship-prompt
 [autoupdate-oh-my-zsh-plugins]: https://github.com/TamCore/autoupdate-oh-my-zsh-plugins
+[fzf]: https://github.com/junegunn/fzf#using-git
