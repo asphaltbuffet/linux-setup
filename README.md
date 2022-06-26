@@ -34,9 +34,6 @@ _further information: [spaceship-prompt](https://github.com/denysdovhan/spaceshi
 
 ## Optional
 
-### firecode (font)
-_download from: [FireCode](https://github.com/tonsky/FiraCode)_
-
 ## Configuration
 Manually copy the `.zshrc` file to `~/.zshrc`.
 
